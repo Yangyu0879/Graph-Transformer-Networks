@@ -3,3 +3,5 @@ It is the Jupyter Notebbok implementation of [Graph Transformer Networks](https:
 
 This code is based on the Pytorch implementation repository of [Graph_Transformer_Networks](https://github.com/seongjunyun/Graph_Transformer_Networks). Becasue of the huge consumption of code on the DBLP and IMDB dataset. It only provides the code running on RAM on the ACM dataset.
 
+Dataset can be found [here](https://drive.google.com/file/d/1qOZ3QjqWMIIvWjzrIdRe3EA4iKzPi6S5/view).
+
